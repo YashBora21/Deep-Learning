@@ -276,7 +276,7 @@ RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,Num
 275,15800116,Bowman,712,Germany,Male,28,4,145605.44,1,0,1,93883.53,0
 276,15758685,Dubinina,706,Spain,Female,37,7,0,2,1,1,110899.3,0
 277,15694456,Toscani,756,France,Male,62,3,0,1,1,1,11199.04,1
-278,15767339,Chiazagomekpere,777,France,Female,53,10,0,2,1,0,189992.97,0
+278,15767339,Chiazagomekpere,777,France,Female,53,10,0,2,1,0,189992.97,
 279,15683562,Allen,646,France,Male,35,6,84026.86,1,0,1,164255.69,0
 280,15782210,K'ung,714,France,Male,46,1,0,1,1,0,152167.79,1
 281,15668893,Wilsmore,782,France,Male,39,8,0,2,1,1,33949.67,0
